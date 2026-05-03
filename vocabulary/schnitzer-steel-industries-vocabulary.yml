@@ -1,0 +1,150 @@
+vocabulary:
+  name: Schnitzer Steel Industries (Radius Recycling) Vocabulary
+  description: >-
+    Domain vocabulary for Schnitzer Steel Industries / Radius Recycling covering
+    scrap metal recycling, steel manufacturing, circular economy concepts,
+    and business operations terminology.
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Radius Recycling
+      definition: >-
+        The operating name adopted by Schnitzer Steel Industries in 2023 to reflect
+        the company's focus on the circular economy and metal recycling. Acquired
+        by Toyota Tsusho in 2025.
+      tags:
+        - Brand
+        - Company
+      synonyms:
+        - Schnitzer Steel Industries
+        - Schnitzer Steel
+
+    - term: Scrap Metal
+      definition: >-
+        Recyclable materials left over from product manufacturing and consumption.
+        Includes ferrous (iron-based) and non-ferrous (aluminum, copper, lead) metals.
+      tags:
+        - Materials
+        - Recycling
+      subtypes:
+        - Ferrous Scrap
+        - Non-Ferrous Scrap
+        - Automotive Scrap
+        - Industrial Scrap
+
+    - term: Ferrous Scrap
+      definition: >-
+        Scrap metal containing iron and steel, the primary input for electric arc
+        furnace steelmaking. Includes auto bodies, structural steel, and appliances.
+      tags:
+        - Materials
+        - Steel
+
+    - term: Non-Ferrous Scrap
+      definition: >-
+        Scrap metal not containing iron, including aluminum, copper, brass, lead,
+        and zinc. Recovered from wiring, radiators, engines, and plumbing.
+      tags:
+        - Materials
+        - Non-Ferrous
+
+    - term: Pick-n-Pull
+      definition: >-
+        Radius Recycling's chain of self-service used auto parts stores, allowing
+        customers to remove parts directly from salvage vehicles. Operates 50
+        locations across North America.
+      tags:
+        - Brand
+        - Auto Parts
+        - Retail
+
+    - term: Cascade Steel Rolling Mills
+      definition: >-
+        Radius Recycling's steel manufacturing facility in McMinnville, Oregon,
+        that produces finished steel products from recycled scrap metal using
+        electric arc furnace technology.
+      tags:
+        - Manufacturing
+        - Steel
+
+    - term: Electric Arc Furnace (EAF)
+      definition: >-
+        A steelmaking furnace that uses high-current electric arcs to melt
+        recycled scrap metal. EAF steel has a significantly lower carbon footprint
+        than blast furnace production from raw ore.
+      abbreviation: EAF
+      tags:
+        - Manufacturing
+        - Sustainability
+
+    - term: Circular Economy
+      definition: >-
+        An economic model that aims to eliminate waste and continually circulate
+        products and materials. Scrap metal recycling is a foundational circular
+        economy activity, as steel can be recycled indefinitely.
+      tags:
+        - Sustainability
+        - Business Model
+
+    - term: Shredder
+      definition: >-
+        Industrial machinery that reduces large scrap metal items (cars, appliances)
+        into small fragments for sorting and processing. Central equipment at
+        metals recycling facilities.
+      tags:
+        - Equipment
+        - Processing
+
+    - term: Billet
+      definition: >-
+        A semi-finished steel product with a square or round cross-section, produced
+        from molten recycled scrap and used as input for rolling into finished
+        steel products like rebar or wire rod.
+      tags:
+        - Products
+        - Steel
+
+    - term: Rebar
+      definition: >-
+        Reinforcing bar (steel bar) produced from recycled scrap, used in concrete
+        construction for structural reinforcement. A primary finished product from
+        Cascade Steel Rolling Mills.
+      tags:
+        - Products
+        - Construction
+
+    - term: Wire Rod
+      definition: >-
+        A long product steel coil produced by rolling billets, used in wire drawing,
+        welding, nail, and bolt production. Produced at Cascade Steel Rolling Mills.
+      tags:
+        - Products
+        - Steel
+
+    - term: Metals Recycling Facility (MRF)
+      definition: >-
+        A facility that collects, processes, and prepares scrap metal for resale
+        to steel mills and foundries. Radius Recycling operates 53 such facilities
+        across North America.
+      abbreviation: MRF
+      tags:
+        - Facilities
+        - Operations
+
+    - term: Automotive Shredder Residue (ASR)
+      definition: >-
+        The non-metallic material remaining after a vehicle is shredded and metals
+        are recovered. Also called "fluff," it presents environmental disposal challenges.
+      abbreviation: ASR
+      tags:
+        - Waste Management
+        - Environment
+
+    - term: Export Market
+      definition: >-
+        International buyers (primarily Asian steel mills) of recycled ferrous and
+        non-ferrous scrap. Schnitzer/Radius is one of the largest US exporters of
+        recycled metals.
+      tags:
+        - Business
+        - Trade

@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "radius": "https://www.radiusrecycling.com/ontology/",
+
+    "RecyclingCompany": "schema:Organization",
+    "SteelMill": "schema:Organization",
+    "ScrapMetalFacility": "schema:Place",
+    "RecyclingFacility": "schema:Place",
+    "AutoPartsStore": "schema:AutoPartsStore",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "foundingDate": "schema:foundingDate",
+    "location": "schema:location",
+    "address": "schema:address",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "parentOrganization": "schema:parentOrganization",
+
+    "scrapMetalType": "radius:scrapMetalType",
+    "ferrousScrap": "radius:ferrousScrap",
+    "nonFerrousScrap": "radius:nonFerrousScrap",
+    "automativeScrap": "radius:automotiveScrap",
+    "industrialScrap": "radius:industrialScrap",
+
+    "recycledSteel": "radius:recycledSteel",
+    "billetSteel": "radius:billetSteel",
+    "wireRod": "radius:wireRod",
+    "reinforcingBar": "radius:reinforcingBar",
+    "hotRolledBar": "radius:hotRolledBar",
+
+    "picknpull": "radius:PicknPull",
+    "cascadeSteel": "radius:CascadeSteelRollingMills",
+
+    "circularEconomy": "schema:sustainability",
+    "co2Reduction": "schema:carbonFootprint",
+    "metalRecoveryRate": "radius:metalRecoveryRate",
+    "facilityCount": "radius:facilityCount"
+  }
+}
