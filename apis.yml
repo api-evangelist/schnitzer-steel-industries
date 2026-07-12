@@ -21,6 +21,8 @@ tags:
   - Scrap Metal
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/schnitzer-steel-industries-domain-security.yml
   - type: Website
     url: https://www.radiusrecycling.com/
   - type: Website
