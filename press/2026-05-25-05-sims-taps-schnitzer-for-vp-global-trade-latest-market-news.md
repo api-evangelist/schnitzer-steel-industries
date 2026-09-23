@@ -1,7 +1,9 @@
 ---
 title: Sims taps Schnitzer for VP global trade | Latest Market News
 url: https://www.argusmedia.com/en/news-and-insights/latest-market-news/2115893-sims-taps-schnitzer-for-vp-global-trade
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Schnitzer Steel Industries" press release artificial intelligence'
 position: 5
 source: serpapi-google
