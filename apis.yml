@@ -33,7 +33,7 @@ description: >-
   not expose a public developer API or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/schnitzer-steel-industries/refs/heads/main/apis.yml
 created: '2026-05-02'
-modified: '2026-05-02'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Recycling
@@ -44,6 +44,8 @@ tags:
   - Scrap Metal
 apis: []
 common:
+  - url: https://www.radiusrecycling.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/schnitzer-steel-industries-domain-security.yml
   - type: Website
