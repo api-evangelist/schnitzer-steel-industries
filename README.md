@@ -1,4 +1,4 @@
-# Schnitzer Steel Industries (schnitzer-steel-industries)
+# Schnitzer Steel Industries
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,46 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Schnitzer Steel Industries, now rebranded as Radius Recycling (acquired by Toyota Tsusho in 2025), is one of the largest manufacturers and exporters of recycled metal products in North America. The company processes scrap metal from automotive and industrial sources for use in steelmaking, operating 103 recycling facilities including the Pick-n-Pull auto parts chain and Cascade Steel Rolling Mills in McMinnville, Oregon.
+Schnitzer Steel Industries, now rebranded as Radius Recycling (acquired by Toyota Tsusho in 2025), is one of the largest manufacturers and exporters of recycled metal products in North America. The company processes scrap metal from automotive and industrial sources for use in steelmaking, operating 103 recycling facilities including the Pick-n-Pull auto parts chain and Cascade Steel Rolling Mills in McMinnville, Oregon. Schnitzer/Radius Recycling does not expose a public developer API or developer portal.
 
-**URL:** [Visit APIs.json](https://raw.githubusercontent.com/api-evangelist/schnitzer-steel-industries/refs/heads/main/apis.yml)
+**Areas:** Recycling · Steel Manufacturing · Metals · Circular Economy · Fortune 500 · Scrap Metal
 
-## Tags
+## Schnitzer Steel Industries on APIs.io
 
-- Recycling
-- Steel Manufacturing
-- Metals
-- Circular Economy
-- Fortune 500
-- Scrap Metal
+Everything profiled for Schnitzer Steel Industries is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/schnitzer-steel-industries/](https://apis.io/providers/schnitzer-steel-industries/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-05-02
-- **Modified:** 2026-05-02
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON-LD (1)
 
-No public developer APIs have been documented for Schnitzer Steel Industries / Radius Recycling. The company does not expose a public API or developer portal.
+Linked-data contexts for the provider's vocabulary.
 
-## Common Properties
+- [Schnitzer Steel Industries Context](https://apis.io/jsonld/schnitzer-steel-industries/schnitzer-steel-industries-context/)
 
-- [Website (Radius Recycling)](https://www.radiusrecycling.com/)
-- [Website (Schnitzer)](https://www.schnitzer.com/)
-- [LinkedIn](https://www.linkedin.com/company/radius-recycling)
-- [Wikipedia](https://en.wikipedia.org/wiki/Radius_Recycling)
+#### Vocabulary (1)
 
-## Artifacts
+The provider's domain terms, defined.
 
-### Vocabulary
+- [Schnitzer Steel Industries (Radius Recycling) Vocabulary](https://apis.io/vocabularies/schnitzer-steel-industries/schnitzer-steel-industries-vocabulary/)
 
-- [Schnitzer Steel Industries Vocabulary](vocabulary/schnitzer-steel-industries-vocabulary.yml) — Domain terminology for scrap metal recycling, steel manufacturing, and circular economy concepts.
+#### Security (1)
 
-### JSON-LD
+Authentication, trust centre, and vulnerability disclosure.
 
-- [Schnitzer Steel Industries Context](json-ld/schnitzer-steel-industries-context.jsonld) — Linked data context mapping company vocabulary to schema.org.
+- [Schnitzer Steel Industries Domain Security](https://apis.io/security/schnitzer-steel-industries/schnitzer-steel-industries-domain-security/)
 
-## Maintainers
+## Where to find this API
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.radiusrecycling.com/)
+- [Blog](https://www.radiusrecycling.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 9.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/schnitzer-steel-industries/](https://apis.io/providers/schnitzer-steel-industries/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Schnitzer Steel Industries: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/schnitzer-steel-industries/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
